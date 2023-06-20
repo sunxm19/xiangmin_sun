@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "xiangmin_sun"
+  title: "Xiangmin Sun"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research.qmd
 
 format:
   html:
-    theme: cosmo
+    light: cerulean
+    dark: slate
     css: styles.css
     toc: true
 
