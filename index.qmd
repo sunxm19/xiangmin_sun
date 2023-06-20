@@ -1,11 +1,43 @@
 ---
-title: "xiangmin_sun"
+title: "Xiangmin (Sam) Sun"
+about: 
+  id: hero-heading
+  template: trestles
+  image: xiangmin_profile.jpg
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/xiangmin-sam-sun-89a18b180/
+    - text: Twitter
+      href: https://twitter.com/sunxm03
+    - text: GitHub
+      href: https://github.com/sunxm19
+    - text: Email
+      href: mailto:xsun130@asu.edu
 ---
 
-This is a Quarto website.
+### This content appears above the formatted about page content.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#hero-heading}
 
-```{r}
-1 + 1
-```
+My name is Xiangmin Sun. Sam is chosen as my pseudonym to facilitate communication. I am a postdoc on eddy covariance measurement and isotopic ecohydrology, at Arizona State University. When not wrangling with data or being innovative in research, Xiangmin (Sam) enjoys playing table tennis and baminton, and reading in history and psychology.
+
+## Education
+
+Texas A"&amp;"M University | College Station, TX
+PhD in Ecohydrology | Sept 2013 - June 2019
+
+University of Chinese Academy of Sciences | Beijing, China
+Ms in Environmental Engineering | Sept 2008 - June 2011
+
+Lanzhou University | Gansu, China
+B.A in Hydrology and Water Resources | Sept 2003 - June 2007
+## Experience
+
+University of Illinois at Urban-Champaign | PostDoc | April 2020 - Jan 2023
+
+:::
+
+### This content appears below the formatted about page content.
+---
