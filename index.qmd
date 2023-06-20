@@ -2,7 +2,7 @@
 title: "Xiangmin (Sam) Sun"
 about: 
   id: hero-heading
-  template: trestles
+  template: jolla
   image: xiangmin_profile.jpg
   image-shape: round
   image-width: 23em
@@ -17,27 +17,26 @@ about:
       href: mailto:xsun130@asu.edu
 ---
 
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-My name is Xiangmin Sun. Sam is chosen as my pseudonym to facilitate communication. I am a postdoc on eddy covariance measurement and isotopic ecohydrology, at Arizona State University. When not wrangling with data or being innovative in research, Xiangmin (Sam) enjoys playing table tennis and baminton, and reading in history and psychology.
+::: {#hero-heading}
+My name is Xiangmin Sun. Sam is my pseudonym to facilitate communication. I am a postdoc on eddy covariance measurement and isotopic ecohydrology at [Arizona State University](https://hydrology.asu.edu/). When not wrangling with data or being innovative in research, Xiangmin (Sam) enjoys playing table tennis and badminton, and reading in history and psychology.
 
 ## Education
 
-Texas A"&amp;"M University | College Station, TX
-PhD in Ecohydrology | Sept 2013 - June 2019
+**Texas A&M University** \| College Station, TX
 
-University of Chinese Academy of Sciences | Beijing, China
-Ms in Environmental Engineering | Sept 2008 - June 2011
+PhD in Ecohydrology \| Sept 2013 - June 2019
 
-Lanzhou University | Gansu, China
-B.A in Hydrology and Water Resources | Sept 2003 - June 2007
+**University of Chinese Academy of Sciences** \| Beijing, China
+
+Ms in Environmental Engineering \| Sept 2008 - June 2011
+
+**Lanzhou University** \| Gansu, China
+
+B.A in Hydrology and Water Resources \| Sept 2003 - June 2007
+
 ## Experience
 
-University of Illinois at Urban-Champaign | PostDoc | April 2020 - Jan 2023
-
+**University of Illinois at Urban-Champaign** \| Urbana, Illinois \| Postdoc \| April 2020 - Jan 2023
 :::
 
-### This content appears below the formatted about page content.
----
+------------------------------------------------------------------------
